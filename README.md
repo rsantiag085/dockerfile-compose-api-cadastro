@@ -5,6 +5,8 @@ Este projeto contém uma API de cadastro desenvolvida com Node.js e Express. A A
 
 A API é ideal para aprender a configurar e rodar aplicações Node.js em containers Docker.
 
+Link do projeto original - https://github.com/fraigo/node-express-rest-api-example
+
 ---
 
 ## Passos para Build e Execução
